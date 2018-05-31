@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <Button
+        android:id="@+id/main_RxJava"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="RxJava"/>
+
+    <Button
+        android:id="@+id/main_PopupWindow"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="图片放大"/>
+
+    <Button
+        android:id="@+id/main_Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="下载Dialog"/>
+
+    <Button
+        android:id="@+id/main_MagicIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="导航栏"/>
+
+    <Button
+        android:id="@+id/main_video"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="视频播放"/>
+
+</LinearLayout>
